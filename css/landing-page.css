@@ -1,4 +1,16 @@
 /*!
+ * Modifications for IOG
+ */
+.navbar-brand {
+  background: url(../img/logo.jpg) no-repeat center center;
+  min-width: 228px;
+}
+.navbar-default {
+    background-color: #fff;
+    border-color: #e7e7e7;
+}
+
+/*!
  * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
